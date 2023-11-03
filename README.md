@@ -7,7 +7,7 @@ This is a basic calculator program in Java that can perform addition, subtractio
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/java-calculator.git
+   git clone https://github.com/iamprathameshmore/java-calculator.git
    ```
 
 2. **Compile the Java Code:**
@@ -48,4 +48,4 @@ If you'd like to contribute to this project or add more features to the calculat
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-Make sure to replace the placeholders (e.g., `yourusername`) with the actual information specific to your GitHub repository. This README provides instructions for cloning the repository, compiling the code, and running the calculator. It also mentions the available operations and how to contribute to the project.
+Make sure to replace the placeholders (e.g., `iamprathameshmore`) with the actual information specific to your GitHub repository. This README provides instructions for cloning the repository, compiling the code, and running the calculator. It also mentions the available operations and how to contribute to the project.
